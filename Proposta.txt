@@ -1,0 +1,5 @@
+Para esta aula, a atividade é a mesma da aula passada, com as seguintes alterações:
+
+1- Não utilizar variável global
+
+2- Os registros de funcionários (nós) devem ser inseridos na lista em ordem crescente de número da Matrícula
